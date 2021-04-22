@@ -19,12 +19,26 @@ kembali Membuat file html baru dan membuat file css baru, lalu gabungkanlah file
 ![Layout sederhana](https://user-images.githubusercontent.com/81844622/115726706-2b88fe00-a3ad-11eb-8aaf-793b48326460.jpg)
 
 # Langkah 5
-
 Selanjutnya tambahkan codingan ini untuk deklarasi cssnya
 
 ![layout sederhana2](https://user-images.githubusercontent.com/81844622/115727006-6db23f80-a3ad-11eb-83b1-d845432841e1.jpg)
 
 # Langkah 6
+Menambahkan navigasi pada deklarasi Css, disini kita menambahkan padding, background color, font-size, dll
+
+![Menambahkan Navigasi](https://user-images.githubusercontent.com/81844622/115727626-fa5cfd80-a3ad-11eb-906b-cebdcd564ac9.jpg)
+
+# Langkah 7
+Selanjutnya adalah membuat hero panel, tambahkan deklarasi section dan membuat button untuk learn more
+
+![Membuat hero panel](https://user-images.githubusercontent.com/81844622/115728994-36449280-a3af-11eb-963f-fad8189a3243.jpg)
+
+# Langkah 8
+Selanjutnya adalah menambahkan sidebar widget, disini kita <aside> dan berbagai widget link. walaupun widget link disini masih belum aktif 
+
+![Mengatur Sidebar widget](https://user-images.githubusercontent.com/81844622/115730691-b9b2b380-a3b0-11eb-9699-1261f8c0e411.jpg)
+
+# Langkah 9
 
 
 
