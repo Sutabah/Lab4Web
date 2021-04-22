@@ -8,4 +8,26 @@ Setelah Section selanjutnya adalah menambahkan deklarasi Css seperti penambahan 
 
 ![cSS Float](https://user-images.githubusercontent.com/81844622/115724025-c3391d00-a3aa-11eb-8a62-791292b41d9c.jpg)
 
+# Langkah 3
+Selanjutnya adalah mengatur clearfix element, disini kita hanya menambahkan .div4 dan menambahkan deklarasi clear : left pada .div4
+
+![Mengatur clear fix element](https://user-images.githubusercontent.com/81844622/115724637-56725280-a3ab-11eb-896b-33a3640fdc2e.jpg)
+
+# Langkah 4
+kembali Membuat file html baru dan membuat file css baru, lalu gabungkanlah file ini dalam 1 folder, setelah itu buatlah awalan coding seperti ini
+
+![Layout sederhana](https://user-images.githubusercontent.com/81844622/115726706-2b88fe00-a3ad-11eb-8aaf-793b48326460.jpg)
+
+# Langkah 5
+
+Selanjutnya tambahkan codingan ini untuk deklarasi cssnya
+
+![layout sederhana2](https://user-images.githubusercontent.com/81844622/115727006-6db23f80-a3ad-11eb-83b1-d845432841e1.jpg)
+
+# Langkah 6
+
+
+
+
+
 
