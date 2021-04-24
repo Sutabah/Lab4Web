@@ -39,6 +39,50 @@ Selanjutnya adalah menambahkan sidebar widget, disini kita <aside> dan berbagai 
 ![Mengatur Sidebar widget](https://user-images.githubusercontent.com/81844622/115730691-b9b2b380-a3b0-11eb-9699-1261f8c0e411.jpg)
 
 # Langkah 9
+Merapihkan bagian widget tadi dengan menambahkan code css seperti ini
+
+![Mengatur Sidebar widget 2](https://user-images.githubusercontent.com/81844622/115945531-6c386280-a4e6-11eb-80c1-9bbc643011c9.jpg)
+
+# Langkah 10
+Mengatur Footer dengan menambahkan bg-color,padding,color pada file css
+
+![footer css](https://user-images.githubusercontent.com/81844622/115945751-3e9fe900-a4e7-11eb-9d32-aa487e2bc3a4.jpg)
+
+# Langkah 11
+Menambahkan Element pada main content
+
+![element pada main content](https://user-images.githubusercontent.com/81844622/115945819-9c343580-a4e7-11eb-947c-3d20fdf67899.jpg)
+
+# Langkah 12
+Kemudian tambahkan code ini pada css untuk merapihkan  main contentnya
+
+![Mengatur Sidebar widget 2](https://user-images.githubusercontent.com/81844622/115945871-e2899480-a4e7-11eb-997c-7d1f5d639585.jpg)
+
+# Langkah 13
+Menambahkan Content artikel, disini kita akan menambahkan gambar untuk thubnail dan artikel yang akan di buat
+
+![Menambahkan content artikel](https://user-images.githubusercontent.com/81844622/115945924-309e9800-a4e8-11eb-9272-da3291f2611c.jpg)
+
+# Langkah 14
+Setelah selesai tambahkan code css berikut
+
+![Menambahkan content artikel 2](https://user-images.githubusercontent.com/81844622/115945956-5b88ec00-a4e8-11eb-8bd5-09b69a407fa7.jpg)
+
+# Jawaban Tugas
+
+# 1.Menambahkan menu about
+![menu about](https://user-images.githubusercontent.com/81844622/115946031-c0444680-a4e8-11eb-89df-b772734f50de.jpg)
+
+# 2.Menambahkan Menu contact
+![membuat contact form](https://user-images.githubusercontent.com/81844622/115946061-e8cc4080-a4e8-11eb-83f9-3ef7e20f9861.jpg)
+
+![membuat contact form2](https://user-images.githubusercontent.com/81844622/115946101-321c9000-a4e9-11eb-87d8-db6ff98e9b52.jpg)
+
+
+
+
+
+
 
 
 
